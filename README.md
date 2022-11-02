@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ms76152
-- 👀 I’m interested in IAAS, docker, kuberntes, and Raspberry Pi
+- 👀 I’m interested in IAAS, docker, kubernetes, and Raspberry Pi
 - 🌱 I’m currently learning docker, and kubernetes
 
 <!---
